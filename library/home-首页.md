@@ -1,10 +1,7 @@
-# KTM Duke390 Repair Manual
+## Duke390 Manual
 
 <br>
 
-![欢迎使用amWiki！](amWiki/images/logo.png "欢迎使用amWiki！")  
+![Duke390维修手册CN ](amWiki/images/logo.png "公爵390维修手册CN")  
 
-### 欢迎使用 amWiki 轻文库!
-—— **amWiki 致力于让大家可以更简单、更便捷的建设个人和团队文库！**  
-
-[ [view amWiki on Github](https://github.com/TevinLi/amWiki) ]
+ **chzhoudy,来自杭州，Corder。致力于爱好的Hard-Core。Duke390购置至今近一万公里，可能由于CDK的缘故，无不例外出现各类通病。与很多车友的抱怨不同，每次解决问题，都是深入了解机车的机会。故翻译官方维修手册，提供结构图纸，以供各位车友参考。**  
