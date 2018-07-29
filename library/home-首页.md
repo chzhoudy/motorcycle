@@ -2,7 +2,7 @@
 
 <br>
 
-![KTM ](amWiki/images/logo.png)  &emsp;&emsp; 
+![KTM ](amWiki/images/logo.png)  &emsp;&emsp; ![Ducati](amWiki/images/ducati.png)
 
 
  **chzhoudy,来自杭州.**  
